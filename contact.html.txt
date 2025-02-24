@@ -17,7 +17,7 @@
     <h1>لیست شماره‌های فروشی</h1>
     <table>
         <tr><th>شماره</th><th>قیمت (تومان)</th></tr>
-        <tr><td>0912xxxxxxx</td><td>5,000,000</td></tr>
+        <tr><td>09123005050</td><td>5,000,000</td></tr>
         <tr><td>0935xxxxxxx</td><td>3,200,000</td></tr>
         <tr><td>0990xxxxxxx</td><td>2,800,000</td></tr>
     </table>
